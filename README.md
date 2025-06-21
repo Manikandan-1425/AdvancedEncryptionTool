@@ -54,3 +54,4 @@ This task strengthened my understanding of file handling, symmetric encryption, 
 Task 4 provided an essential foundation in encryption techniques and secure file handling. I successfully implemented a Python-based Advanced Encryption Tool that fulfills the internship’s objective and demonstrates my capability to apply theoretical knowledge in practical cybersecurity scenarios. This project not only helped me learn about real-world encryption mechanisms but also improved my coding, debugging, and project documentation skills — all of which are valuable for my growth as a cybersecurity professional.
 
 #OUTPUT:
+![Image](https://github.com/user-attachments/assets/0820b942-b86d-402f-a723-596a46162ec2)
