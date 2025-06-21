@@ -50,9 +50,7 @@ To validate the tool, I created a sample file (myfile.txt), encrypted it using t
 
 📂 Outcome
 This task strengthened my understanding of file handling, symmetric encryption, key management, and secure programming practices. It also introduced me to cryptographic standards and the importance of data privacy in cybersecurity. The tool created is simple yet powerful and can be expanded into a more advanced application with features like password-based encryption, GUI interface, batch processing, and cloud integration.
-
-#OUTPUT:
-
-
 📝 Conclusion
 Task 4 provided an essential foundation in encryption techniques and secure file handling. I successfully implemented a Python-based Advanced Encryption Tool that fulfills the internship’s objective and demonstrates my capability to apply theoretical knowledge in practical cybersecurity scenarios. This project not only helped me learn about real-world encryption mechanisms but also improved my coding, debugging, and project documentation skills — all of which are valuable for my growth as a cybersecurity professional.
+
+#OUTPUT:
